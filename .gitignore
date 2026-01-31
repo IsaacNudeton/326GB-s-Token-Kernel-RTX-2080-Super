@@ -1,0 +1,21 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+
+# LaTeX build files
+*.tex
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Profiling data
+*.ncu-rep
+*.ncu-occ
+
+# OS
+.DS_Store
+Thumbs.db
